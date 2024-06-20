@@ -1,6 +1,6 @@
 # MultiOn Cookbook
 
-The MultiOn Cookbook provides recipes and guides designed to help developers build with MultiOn, providing code snippets that you can easily integrate into your own projects.
+The MultiOn Cookbook provides recipes and guides designed to help developers build with [MultiOn](https://www.multion.ai/api), providing code snippets that you can easily integrate into your own projects.
 
 ## Prerequisites
 
