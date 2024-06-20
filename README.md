@@ -1,6 +1,11 @@
-# MultiOn Cookbook
+<p align="center">
+  <a href="https://modal.com">
+    <img src="https://www.multion.ai/img/0a2c2620-8f0c-4f97-ada2-d78daefd1bac/api.jpg?fm=webp&q=95&fit=max&crop=3097%2C2066%2C0%2C384&w=2000" height="96">
+    <h3 align="center">MultiOn Cookbook</h3>
+  </a>
+</p>
 
-The MultiOn Cookbook provides recipes and guides designed to help developers build with [MultiOn](https://www.multion.ai/api), providing code snippets that you can easily integrate into your own projects.
+Enjoy our curated collection of examples and recipes for [MultiOn](https://www.multion.ai/api). Use these patterns to build your own Agentic applications. We're going to be shipping new examples weekly. Stay tuned!
 
 ## Prerequisites
 
