@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://modal.com">
-    <img src="https://www.multion.ai/img/0a2c2620-8f0c-4f97-ada2-d78daefd1bac/api.jpg?fm=webp&q=95&fit=max&crop=3097%2C2066%2C0%2C384&w=2000" height="96">
+  <a href="https://multion.ai">
+    <img src="https://www.multion.ai/img/0a2c2620-8f0c-4f97-ada2-d78daefd1bac/api.jpg?fm=webp&q=95&fit=max&crop=3097%2C2066%2C0%2C384&w=2000" height="128">
     <h3 align="center">MultiOn Cookbook</h3>
   </a>
 </p>
