@@ -24,10 +24,20 @@ Looking for more resources to build with MultiOn agents? Check out these helpful
 
 We welcome any contributions to the MultiOn Cookbook, whether it's submitting an idea, fixing a typo, adding a new guide, or improving an existing one.
 
-If you have ideas for new examples or guides, share them on the [issues page](https://github.com/MULTI-ON/multion-cookbook/issues).
+If you have ideas for new examples or guides, share them on the [issues page](https://github.com/MULTI-ON/cookbook/issues).
 
 If you want to directly contribute code, you can fork the repository, make your changes, and submit a pull request.
 
 To avoid duplication of efforts, please review the existing issues and pull requests before contributing.
 
 Happy building! 🙌
+
+## Table of recipes
+
+### Projects
+
+- [Internet of Agents](https://github.com/MULTI-ON/cookbook/tree/main/internet-of-agents) - deploy a swarm of web agents with MultiOn
+
+### Notebooks
+
+- [Scrape LinkedIn](https://github.com/MULTI-ON/cookbook/tree/main/scraping/scrape_linkedin.ipynb) - scrape LinkedIn with MultiOn
