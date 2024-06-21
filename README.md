@@ -13,6 +13,16 @@ To make the most of the examples in this cookbook, you'll need an MultiOn accoun
 
 Some recipes use the Agent API in local mode, which requires the MultiOn Chrome Extension (install [here](https://chromewebstore.google.com/detail/multion/ddmjhdbknfidiopmbaceghhhbgbpenmm)).
 
+## Table of recipes
+
+### Projects
+
+- [Internet of Agents](https://github.com/MULTI-ON/cookbook/tree/main/internet-of-agents) - deploy a swarm of web agents with MultiOn
+
+### Notebooks
+
+- [Scrape LinkedIn](https://github.com/MULTI-ON/cookbook/tree/main/scraping/scrape_linkedin.ipynb) - scrape LinkedIn with MultiOn
+
 ## Explore further
 
 Looking for more resources to build with MultiOn agents? Check out these helpful links:
@@ -31,13 +41,3 @@ If you want to directly contribute code, you can fork the repository, make your 
 To avoid duplication of efforts, please review the existing issues and pull requests before contributing.
 
 Happy building! 🙌
-
-## Table of recipes
-
-### Projects
-
-- [Internet of Agents](https://github.com/MULTI-ON/cookbook/tree/main/internet-of-agents) - deploy a swarm of web agents with MultiOn
-
-### Notebooks
-
-- [Scrape LinkedIn](https://github.com/MULTI-ON/cookbook/tree/main/scraping/scrape_linkedin.ipynb) - scrape LinkedIn with MultiOn
